@@ -1,0 +1,45 @@
+# TrackIQ
+
+> An Amazon MCP server. It connects Claude, ChatGPT and Cursor to a seller's
+> live Amazon data — retail sales, profitability, Sponsored Ads, Amazon DSP,
+> Amazon Marketing Cloud, Search Query Performance, organic rank, Best Sellers
+> Rank, inventory, promotions, competitors and Vendor Central — through one
+> Model Context Protocol connection, plus 30 ready-made Agent Skills that turn
+> that data into finished analysis.
+
+One plan at $69/month covering every tool and all 30 skills. Sellers bring
+their own Amazon account and their own assistant subscription; authorisation
+runs through Amazon's OAuth, so TrackIQ never receives an Amazon password.
+Install with `claude mcp add trackiq "https://trackiq.com/mcp"`.
+
+## Product
+
+- [TrackIQ MCP](https://l.trackiq.com): what the MCP connects, what it can act on, and pricing
+- [MCP overview](https://trackiq.com/mcp): the server, its tools and how it fits an Amazon account
+- [Install](https://trackiq.com/mcp-install): setup for Claude Code, Claude desktop, Claude.ai, ChatGPT and Cursor
+- [Docs](https://trackiq.com/mcp-docs): authentication, supported clients, rate limits and data retention
+- [Tools](https://trackiq.com/mcp-tools): the tool catalog by category
+- [Security](https://trackiq.com/mcp-security): OAuth scope, storage and retention
+- [Pricing](https://trackiq.com/mcp-pricing): $69/month, no per-seat or usage fees
+
+## Skills
+
+- [Skill catalog](https://trackiq.com/skills): 30 Agent Skills across six areas
+- [Sponsored Ads](https://trackiq.com/skills/amazon-advertising): wasted spend, budget pacing, structure audits, search-term harvesting, branded vs generic search
+- [AMC & DSP](https://trackiq.com/skills/amazon-amc-dsp): new-to-brand customers by product and campaign, media mix, DSP performance, conversion lag
+- [Search](https://trackiq.com/skills/amazon-search): rank movement, rank readiness, share of shelf, search visibility, category priority keywords
+- [Listing](https://trackiq.com/skills/amazon-listing): listing optimisation and monitoring, catalog hygiene, review mining, competitor teardowns
+- [Inventory](https://trackiq.com/skills/amazon-inventory): restock priority, demand forecast, excess inventory, stockout impact, inventory-aware ad throttling
+- [Operations](https://trackiq.com/skills/amazon-operations): daily and weekly reporting, monthly business review, launch scorecards, sales movers
+
+## Reference
+
+- [Amazon MCP documentation](https://github.com/TrackIQ-HQ/amazon-mcp): tool reference, client setup and example questions
+- [Skills source](https://github.com/TrackIQ-HQ/amazon-seller-skills): every skill, open source, MIT licensed
+
+## Optional
+
+- [How it works](https://trackiq.com/how-it-works)
+- [Knowledge base](https://trackiq.com/knowledge)
+- [News](https://trackiq.com/news)
+- [Contact](https://trackiq.com/contact)
