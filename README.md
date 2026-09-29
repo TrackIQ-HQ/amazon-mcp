@@ -6,11 +6,11 @@ Marketing Cloud, Search Query Performance, organic rank, Best Sellers Rank,
 inventory and competitor tracking — read through a single connection, in the
 assistant you already use.
 
-[**Get access →**](https://l.trackiq.com) · $69/month, no other fees ·
+[**Get access →**](https://trackiq.com/mcp) · $69/month, no other fees ·
 [30 ready-made skills](https://github.com/TrackIQ-HQ/amazon-seller-skills) ·
-[Full product detail](https://l.trackiq.com)
+[Full product detail](https://trackiq.com/mcp)
 
-[![TrackIQ MCP — connect your AI assistant to Amazon data. Works with Claude, ChatGPT and Cursor.](.github/trackiq-mcp-banner.png)](https://l.trackiq.com)
+[![TrackIQ MCP — connect your AI assistant to Amazon data. Works with Claude, ChatGPT and Cursor.](.github/trackiq-mcp-banner.png)](https://trackiq.com/mcp)
 
 ---
 
@@ -123,7 +123,7 @@ One plan at **$69/month**: every tool and all 30 skills, with no per-seat or
 usage fee. You bring your own Amazon account and your own assistant
 subscription — TrackIQ charges for data access, not for AI usage.
 
-[**Start here →**](https://l.trackiq.com)
+[**Start here →**](https://trackiq.com/mcp)
 
 ## Questions people ask
 
@@ -152,6 +152,6 @@ CSV to answer one question. Ask instead.
 ---
 
 TrackIQ · [trackiq.com](https://trackiq.com) ·
-[MCP](https://l.trackiq.com) ·
+[MCP](https://trackiq.com/mcp) ·
 [Skills](https://github.com/TrackIQ-HQ/amazon-seller-skills) · MIT licensed
 documentation

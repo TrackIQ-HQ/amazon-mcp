@@ -14,8 +14,7 @@ Install with `claude mcp add trackiq "https://trackiq.com/mcp"`.
 
 ## Product
 
-- [TrackIQ MCP](https://l.trackiq.com): what the MCP connects, what it can act on, and pricing
-- [MCP overview](https://trackiq.com/mcp): the server, its tools and how it fits an Amazon account
+- [TrackIQ MCP](https://trackiq.com/mcp): the server, what it connects, what it can act on, and pricing
 - [Install](https://trackiq.com/mcp-install): setup for Claude Code, Claude desktop, Claude.ai, ChatGPT and Cursor
 - [Docs](https://trackiq.com/mcp-docs): authentication, supported clients, rate limits and data retention
 - [Tools](https://trackiq.com/mcp-tools): the tool catalog by category
